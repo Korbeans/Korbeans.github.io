@@ -1,0 +1,32 @@
+* {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(38, 48, 48);
+  }
+   
+   
+  h1 {
+    color: rgb(18, 107, 110);
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: rgb(38, 48, 48);
+    font-size: 40px;
+    border:rgb(18, 107, 110) 2px solid;
+  }
+   
+  li {
+    font-size: 20px;
+    list-style: none;
+    color:rgb(18, 107, 110);
+  }
+
+  h2 {
+    margin: 10px;
+    color: rgba(211, 135, 64, 0.788)
+  }
+   
+  .life, .school {
+    margin-top: 15px;
+  }
